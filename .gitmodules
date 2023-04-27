@@ -1,0 +1,4 @@
+[submodule "repo/plugin.program.openwizard"]
+	path = repo/plugin.program.openwizard
+	url = https://github.com/notlot/plugin.program.openwizard.git
+	branch = matrix
