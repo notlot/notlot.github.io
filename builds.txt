@@ -10,7 +10,7 @@ fanart="http://"
 preview="https://www.youtube.com/watch?v=djV11Xbc914"
 adult="no"
 info="url.to.info"
-description="A short description of the build."
+description="Customized version of Arctic Horizon 2 using lots of widgets with TMDB Helper & Seren."
 
 name="Example Build 2"
 version="1.0"
