@@ -1,4 +1,0 @@
-[submodule "repo/plugin.program.openwizard"]
-	path = repo/plugin.program.openwizard
-	url = https://github.com/a4k-openproject/plugin.program.openwizard/tree/matrix
-	branch = matrix
