@@ -1,3 +1,7 @@
+id="plugin.program.openwizard"
+version="1.0.0"
+zip="url.to.wizard"
+
 name="Notlot AH2"
 version="1.1"
 url="https://cdn-153.anonfiles.com/pe4aG2n2z8/74c1c0f1-1682566210/Notlot%2BAH2.zip"
