@@ -1,6 +1,6 @@
 name="Notlot AH2"
-version="1.1"
-url="https://www.dropbox.com/s/zvj5wfiyle413ue/Notlot%2BAH2.zip?dl=1"
+version="1.2"
+url="https://0-cdn2-ovh-bea1.energycdn.com/cdn3sto/venomousvipertooth-sto/6463149eb3e090.94699359/118649227/1684215169/294d7235da266ca7cf93822899dc56f3094eb611/a8e18680e1ad39157dce9861041ec43dce350f307b308bbd46f0889eb63414d9/Notlot%2BAH2.zip"
 minor="http://"
 gui="http://"
 kodi="20.1"
