@@ -11,7 +11,6 @@ preview="https://www.youtube.com/watch?v=djV11Xbc914"
 adult="no"
 info="http://"
 description="Customized version of Arctic Horizon 2 using lots of widgets with TMDB Helper & Fen."
-
 name="Notlot Fentastic"
 version="1.0"
 url="https://www.dropbox.com/scl/fi/xs4x2rkq2yvyyuh85rgjj/fentastic_1.0.zip?rlkey=c37ucbjb0zevxps1dxveyjtlq&dl=1"
