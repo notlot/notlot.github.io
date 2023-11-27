@@ -1,6 +1,6 @@
 name="Notlot AH2"
 version="1.3"
-url="https://onedrive.live.com/download?resid=8EEFBB27D2E1E927%211779&authkey=!AGpjTGd0np6Uy7k"
+url="https://www.dropbox.com/scl/fi/5hgxx16fq67a6bv23pwl9/ah2_1.3.zip?rlkey=5610bmhyrkbx37rpp6p2c36qq&dl=1"
 minor="http://"
 gui="http://"
 kodi="20.2"
