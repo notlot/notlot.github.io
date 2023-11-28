@@ -1,6 +1,6 @@
 name="Notlot Fentastic"
-version="1.0"
-url="https://www.dropbox.com/scl/fi/xs4x2rkq2yvyyuh85rgjj/fentastic_1.0.zip?rlkey=c37ucbjb0zevxps1dxveyjtlq&dl=1"
+version="1.1"
+url="https://www.dropbox.com/scl/fi/ftmsxcmgbyqjta4mvfnd7/fentastic_1.1.zip?rlkey=97amxnoiqq38zg0nywbmv94ad&dl=1"
 minor="http://"
 gui="http://"
 kodi="20.2"
