@@ -18,9 +18,9 @@ description="FENtastic is a modded version of the default Estuary skin, specific
 
 name="Notlot CAMtastic"
 version="1.2"
-url="https://git.uwaterloo.ca/cjtolton/kodi-builds/-/raw/main/camtastic_1.2.zip?inline=false"
+url="https://archive.org/download/notlot_kodi/camtastic_1.2.zip"
 minor="http://"
-gui="https://git.uwaterloo.ca/cjtolton/kodi-builds/-/raw/main/camtastic_1.2_guisettings.zip?inline=false"
+gui="https://archive.org/download/notlot_kodi/camtastic_1.2_guisettings.zip"
 kodi="21.0"
 theme="http://"
 icon="http://"
