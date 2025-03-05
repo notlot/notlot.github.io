@@ -1,6 +1,6 @@
-name="Notlot CAMtastic"
+name="Notlot CAMimbus"
 version="1.2"
-url="https://archive.org/download/notlot_kodi/camtastic_1.2.zip"
+url="https://archive.org/download/notlot_kodi/camimbus_1.2.zip"
 minor="http://"
 gui="http://"
 kodi="21.0"
