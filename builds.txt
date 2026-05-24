@@ -1,6 +1,6 @@
 name="Notlot CAMimbus"
 version="1.2"
-url="https://archive.org/download/notlot_kodi/camimbus_1.2.zip"
+url="https://www.dropbox.com/scl/fi/a054igs4fh9gjyw521jvv/camfuze3_1.0.zip?rlkey=ifheh1nbt11nk8vuvndsbi750&st=ljjembmw&dl=1"
 minor="http://"
 gui="http://"
 kodi="21.0"
